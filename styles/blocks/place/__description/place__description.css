@@ -1,0 +1,11 @@
+@import url(./__description-paragraph/place__description-paragraph.css);
+.place__description{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 30px;
+    margin: 0px;
+    color: #FFFFFF;
+}

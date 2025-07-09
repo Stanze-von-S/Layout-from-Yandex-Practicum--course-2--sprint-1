@@ -1,0 +1,8 @@
+@import url(../__text/intro__text.css);
+.intro__content-row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    margin: 35px 0px 0px;
+}

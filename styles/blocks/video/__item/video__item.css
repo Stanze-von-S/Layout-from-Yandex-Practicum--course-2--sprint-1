@@ -1,0 +1,13 @@
+@import url(./_theme/video__item_theme_kamchatka.css);
+@import url(./_theme/video__item_theme_observatoria.css);
+.video__item{
+    position: relative;
+    width: 583px;
+    height: 323px;
+    z-index: 0;
+    background-size: cover;
+    border-radius: 5px;   
+}
+.video__item:hover .video__item-layer{
+    opacity: 0.2;
+}

@@ -1,0 +1,9 @@
+@import url(__langs/header__langs.css);
+.header{
+    width: 1184px;
+    height: 52px;
+    display: flex;
+    justify-content: space-between;
+    margin: 30px auto 0px; 
+    /* padding-top: 30px; */
+}

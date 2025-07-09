@@ -1,0 +1,11 @@
+@import url(./__description-paragraph/intro__description-paragraph.css);
+.intro__description{
+    width: 383px;
+    font-family: Inter;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1.15;
+    margin: 27px 0px 0px;
+    color: #FFFFFF;
+   
+}

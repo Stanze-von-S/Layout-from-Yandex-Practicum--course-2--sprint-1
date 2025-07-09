@@ -1,0 +1,7 @@
+.emblem__container{
+    display: flex;
+    justify-content: space-between;
+    margin: 75px 0px 0px -16px;
+    width: 1220px;
+    background: #2A2C2F;
+}

@@ -1,0 +1,10 @@
+@import url(./website-title/place__website-title.css);
+@import url(./__website-link/place__website-link.css);
+.place__website{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0px;
+    /* width: 484px;
+    height: 133px; */
+}

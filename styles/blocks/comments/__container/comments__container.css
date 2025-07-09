@@ -1,0 +1,7 @@
+@import url(../../comment/comment.css);
+.comments__container{
+    width: 100%;
+    margin: 64px auto 0px;
+    display: flex;
+    justify-content: space-between;
+}

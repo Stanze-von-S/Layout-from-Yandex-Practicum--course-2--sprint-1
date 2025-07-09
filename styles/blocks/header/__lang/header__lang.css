@@ -1,0 +1,17 @@
+.header__lang{
+font-size: 24px;
+line-height: 23px;
+/* identical to box height */
+/* text-align: right; */
+font-style: normal;
+color: #FFFFFF;
+}
+.header__lang:hover{
+    border-bottom: #0000ff;
+}
+.header__lang_ru{
+    text-decoration: underline;
+}
+.header__lang_en{
+    text-decoration: none;
+}

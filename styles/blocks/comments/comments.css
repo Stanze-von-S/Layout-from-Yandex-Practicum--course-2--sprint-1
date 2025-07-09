@@ -1,0 +1,7 @@
+@import url(./__container/comments__container.css);
+@import url(../content-title/_theme/content-title_theme_comments.css);
+.comments{
+    display: block;
+    margin: 110px auto 0px;
+    width: 1184px;
+}

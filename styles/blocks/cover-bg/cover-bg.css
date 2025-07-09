@@ -1,0 +1,16 @@
+@import url(../cover/__title/cover__title.css);
+@import url(../cover/__subtitle/cover__subtitle.css);
+.cover-bg{
+    position: relative;
+    width: 1184px;
+    height: 594px;
+    background-image: url(../../../images/blocks/cover/baikal.jpg);
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    margin: 0px auto;   
+}
+.cover-bg:hover .cover-layer{
+    opacity: 0.2;
+}

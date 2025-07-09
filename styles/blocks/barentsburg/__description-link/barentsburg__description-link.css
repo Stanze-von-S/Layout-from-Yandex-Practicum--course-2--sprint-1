@@ -1,0 +1,6 @@
+.barentsburg__description-link{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 282px;
+}
